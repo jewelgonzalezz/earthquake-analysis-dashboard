@@ -35,3 +35,6 @@ Went with a dark theme + orange/red accent colors, inspired by the "Ring of Fire
 ## Tools
 
 Power BI, Power Query, DAX
+
+## Data source
+USGS Earthquake Catalog: https://earthquake.usgs.gov/earthquakes/search/
