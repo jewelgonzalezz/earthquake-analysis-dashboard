@@ -28,7 +28,7 @@ Went with a dark theme + orange/red accent colors, inspired by the "Ring of Fire
 
 ## Key Insights
 
-- The Pacific "Ring of Fire" is clearly visible on the map — most earthquake activity is concentrated along this belt rather than spread evenly across the globe
+- The Pacific "Ring of Fire" is clearly visible on the map, most earthquake activity is concentrated along this belt rather than spread evenly across the globe
 - Indonesia had the highest earthquake count in this dataset
 - Earthquake frequency has stayed relatively stable year over year from 2020-2025, without major spikes
 
